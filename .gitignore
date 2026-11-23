@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# environments
+env/
+env_geneval/
+env_dpg/
+env_compbench/
+
+# third-party code and weights (scripts/setup/clone_external.sh)
+external/
+
+# run and evaluation outputs
+outputs/
+*.log
